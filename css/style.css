@@ -1,0 +1,359 @@
+body{
+    background-color: #212121;
+    font-family: sans-serif;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header{
+    width: 960px;
+    height: 1000px;  
+    background-image: url(..//image/Head.jpg);
+    background-repeat: no-repeat;
+    
+}
+nav{
+    width: 600px;
+    height: 50px;
+    margin-top: 50px;
+    float: right;
+    margin-right: 50px;
+    
+}
+nav ul li a{
+    font-family: sans-serif;
+    font-size: 22px;
+    color: #9bb06d;
+}
+header img{
+    width: 170px;
+    margin-top: 100px;
+    margin-left: 550px;
+}
+header h5{
+    font-size: 50px;
+    color: #9bb06d;
+    font-family: sans-serif;
+    margin-left: 550px;
+    margin-top: 80px;
+}
+header h6{
+    font-size: 63px;
+    font-weight: bold;
+    color: #9bb06d;
+    font-family: sans-serif;
+    margin-left: 550px;
+    margin-top: 10px; 
+}
+header div{
+    width: 370px;
+    height: 70px;
+    background-color: rgba(116, 155, 89, 0.4);
+    margin:80px 0 0 550px;
+    font-size: 30px;
+    font-family: sans-serif;
+    color:#9bb06d ;
+}
+.firstsection{
+    width: 960px;
+    height: 480px;
+    background-color: #212121;
+    background-image: url(..//image/Head2.png);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+.firstsection div{
+    padding-top: 200px;
+    margin-left: 20px;
+    width: 450px;
+    height: 250px
+}
+.firstsection span{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: #9bb06d ;
+    margin-bottom: 30px;
+    display: block;
+}
+.firstsection p{
+    font-family: sans-serif;
+    line-height: 24px;
+    color: white;
+}
+.secondsection{
+    width: 960px;
+    height: 380px;
+    background-color: #45493b;
+    padding-top: 80px;
+    padding-left: 10px;
+}
+.secondsection img{
+    margin-bottom: 20px;
+}
+.secondsection div{
+    width: 240px;
+    height: 270px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.secondsection p{
+    color: #9bb06d;
+    font-size: 16px;
+    margin-top: 20px;
+    
+}
+
+.thirdsection{
+    width: 960px;
+    height: 1000px;
+    background-color:#212121 ;
+    padding-top: 100px;
+}
+.insidediv{
+    width: 800px;
+    height: 779px;
+    background-color:#45493b ;
+    text-align: center;
+    
+}
+#hdiv{
+    width: 800px;
+    height: 170px;
+    float: left;
+    padding-top: 50px;
+}
+.insidediv div{
+    width: 200px;
+    height: 203px;
+    float: left;
+    
+}
+#hdiv h3{
+    color:#9bb06d ;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-bottom: 10px;
+}
+#hdiv h2{
+font-size: 30px;
+color: white;
+font-family: sans-serif;
+}
+.insidediv img{
+     width: 100%;
+}
+.insidediv h4{
+    font-size: 20px;
+    color: #9bb06d;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.insidediv p{
+    width: 150px;
+    margin-bottom: 15px;
+    color: white;
+    line-height: 20px;
+}
+.insidediv span{
+    color: white;
+}
+.forthsection{
+    width: 960px;
+    height: 400px;
+    background-color: #45493b;
+}
+.forthsection div{
+    width: 600px;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+}
+.forthsection h2{
+    font-size: 22px;
+    color:#9bb06d ;
+}
+.forthsection p {
+    line-height: 20px;
+    color:  #fff;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.fivesection{
+    width: 960px;
+    height: 240px;
+    background-image: url(../image/Head3.jpg);
+    background-repeat: no-repeat;
+
+}
+.sixsthsection{
+    width: 960px;
+    height: 450px;
+    background-color:#45493b ;
+}
+#sixstopdiv{
+    width: 960px;
+    height:150px;
+    float: left;
+    text-align:  center;
+    padding-top: 30px;
+}
+.sixsthsection div{
+    width: 430px;
+  height: 100px;
+  float: left;
+  padding-left: 50px;
+  margin-right: 50px;
+ text-align:  left;
+  
+}
+.sixsthsection h2{
+    font-size: 40px;
+    color: #9bb06d ;
+    margin-bottom: 10px;
+
+}
+.sixsthsection h3{
+    font-size: 33px;
+    color: #fff;
+}
+.sixsthsection h4{
+    font-size: 20px;
+    color: #9bb06d ;
+    margin-bottom: 10px;
+}
+.sixsthsection  P{
+    color: #fff;
+    font-size: 16px;
+    line-height: 20px;
+}
+.seventhsection{
+    width: 960px;
+    height: 900px;
+    background-image: url(..//image/Head3.jpg);
+    background-repeat: no-repeat;
+    background-position:center top -830px;
+}
+.eighthsection{
+    width: 960px;
+    height: 450px;
+    background-color:#212121;
+    text-align: center;
+}
+.eighthsection h2{
+    font-size: 40px;
+    margin-top: 30px;
+    color:white;
+}
+
+.ninethsection{
+    width: 960px;
+    height: 850px;
+    background-image:url(../image/Head4.jpg) ;
+    background-repeat: no-repeat;
+}
+.tensection{
+    width: 960px;
+    height: 620px;
+    background-color: #45493b;
+    text-align: center;
+}
+#tentopdiv{
+    width: 960px;
+    height: 150px;
+    float: left;
+    color: white;
+    margin: 0;
+    background-color: #45493b;
+    text-align: center;
+}
+#tentopdiv h2{
+    font-size: 35px;
+    color: #9bb06d ;
+    margin: 30px 0 10px ;
+    
+}
+#tentopdiv h3{
+    font-size: 30px;
+    color: #fff;
+
+}
+.tensection div{
+    width: 250px;
+    height: 420px;
+    float: left;
+   margin-left: 50px;
+   margin-top: 20px;
+    background-color: #fff;
+    text-align: left;
+}
+.tensection img{
+    width: 250px;
+}
+.tensection h4{
+    margin: 15px 0 10px 20px;
+    font-weight: bold;
+}
+.tensection h5{
+    margin: 0 0 10px 20px;
+
+    font-weight: bold;
+}
+.tensection p{
+    margin:0 0 10px 20px;
+    line-height: 20px;
+}
+.tensection a{
+    margin-left: 20px;
+    color: black;
+    font-weight: 600;
+    border-bottom: 5px solid #9bb06d;
+}
+.elevensection{
+    width: 960px;
+    height: 340px;
+    background-color: #212121;
+    text-align: center;
+}
+#elenentopdiv{
+    width: 600px;
+    height: 300px;
+    color: #9bb06d;
+    line-height: 20px;
+}
+#elenentopdiv img{
+    margin: 30px 0 30px 0;
+}
+#elenentopdiv h4{
+    font-size: 25px;
+    margin-top: 20px;
+}
+footer{
+    width: 960px;
+    height: 320px;
+    background-color:#45493b ;
+    color: white;
+    padding-top: 50px;
+    margin-bottom: 100px;
+}
+#footfirst{
+    width: 250px;
+    height: 200px;
+}
+footer div{
+    width: 60px;
+    height: 200px;
+}
+footer p{
+    line-height: 20px;
+}
+footer span{
+    font-weight: bold;
+    line-height: 30px;
+}
+footer h3{
+    font-weight: bold;
+    margin-bottom: 30px;
+}
